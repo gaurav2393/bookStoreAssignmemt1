@@ -1,0 +1,19 @@
+{
+  "name": "tiles",
+  "version": "1.0.0",
+  "description": "Tiles search and description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav2393/bookStoreAssignmemt1.git"
+  },
+  "author": "Gaurav Gera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurav2393/bookStoreAssignmemt1/issues"
+  },
+  "homepage": "https://github.com/gaurav2393/bookStoreAssignmemt1#readme"
+}
