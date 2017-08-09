@@ -28,3 +28,7 @@ app.use(require('webpack-dev-middleware')(compiler, {
 app.get('/', function (req, res) {
     res.sendFile(path.join(__dirname, '../public/index.html'));
 });
+
+app.get('/tilesData', function (req, res) {
+    res.sendFile(path.join(__dirname, '../data/data.json'));
+});
